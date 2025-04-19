@@ -1,0 +1,303 @@
+[2025-04-19 18:39:14] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:39:19] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:39:23] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:39:30] ✅ Normal traffic: 69 pkt/s
+[2025-04-19 18:39:35] ✅ Normal traffic: 55 pkt/s
+[2025-04-19 18:39:42] ✅ Normal traffic: 9 pkt/s
+[2025-04-19 18:40:35] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:40:49] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:41:55] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:41:56] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:42:00] ✅ Normal traffic: 19 pkt/s
+[2025-04-19 18:42:05] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:42:10] ✅ Normal traffic: 8 pkt/s
+[2025-04-19 18:42:15] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:42:20] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:42:25] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:42:30] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:42:35] ✅ Normal traffic: 11 pkt/s
+[2025-04-19 18:42:40] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:42:45] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:42:50] ✅ Normal traffic: 36 pkt/s
+[2025-04-19 18:42:55] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:43:00] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:43:05] ✅ Normal traffic: 41 pkt/s
+[2025-04-19 18:43:10] ⚠️ DDoS detected! Packet rate: 1104 pkt/s from 192.168.1.19
+[2025-04-19 18:43:10] 🚫 IP 192.168.1.19 has been blocked due to high traffic.
+[2025-04-19 18:43:15] ✅ Normal traffic: 58 pkt/s
+[2025-04-19 18:43:20] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:43:25] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:43:30] ✅ Normal traffic: 11 pkt/s
+[2025-04-19 18:43:34] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:43:35] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:43:40] ✅ Normal traffic: 13 pkt/s
+[2025-04-19 18:43:45] ✅ Normal traffic: 9 pkt/s
+[2025-04-19 18:43:50] ✅ Normal traffic: 31 pkt/s
+[2025-04-19 18:43:55] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:44:00] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:44:05] ✅ Normal traffic: 11 pkt/s
+[2025-04-19 18:44:10] ✅ Normal traffic: 30 pkt/s
+[2025-04-19 18:44:15] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:44:20] ✅ Normal traffic: 22 pkt/s
+[2025-04-19 18:44:25] ✅ Normal traffic: 4 pkt/s
+[2025-04-19 18:44:30] ✅ Normal traffic: 7 pkt/s
+[2025-04-19 18:44:35] ✅ Normal traffic: 32 pkt/s
+[2025-04-19 18:44:53] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:44:54] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:45:02] ✅ Normal traffic: 23 pkt/s
+[2025-04-19 18:45:06] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:45:19] ✅ Normal traffic: 4 pkt/s
+[2025-04-19 18:45:30] ✅ Normal traffic: 15 pkt/s
+[2025-04-19 18:45:35] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:48:16] ✅ Normal traffic: 31 pkt/s
+[2025-04-19 18:48:23] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:48:31] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:48:36] ✅ Normal traffic: 0 pkt/s
+[2025-04-19 18:48:41] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:48:46] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:48:51] ✅ Normal traffic: 11 pkt/s
+[2025-04-19 18:48:56] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:49:01] ✅ Normal traffic: 64 pkt/s
+[2025-04-19 18:49:06] ✅ Normal traffic: 47 pkt/s
+[2025-04-19 18:49:11] ✅ Normal traffic: 7 pkt/s
+[2025-04-19 18:49:16] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:49:20] ✅ Normal traffic: 182 pkt/s
+[2025-04-19 18:49:25] ✅ Normal traffic: 239 pkt/s
+[2025-04-19 18:49:30] ✅ Normal traffic: 144 pkt/s
+[2025-04-19 18:49:35] ✅ Normal traffic: 193 pkt/s
+[2025-04-19 18:51:19] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:51:20] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:51:30] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:51:35] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:51:40] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:51:45] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:51:50] ✅ Normal traffic: 0 pkt/s
+[2025-04-19 18:51:55] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:52:00] ✅ Normal traffic: 24 pkt/s
+[2025-04-19 18:52:05] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:52:10] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:52:15] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:52:20] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:52:24] ✅ Normal traffic: 137 pkt/s
+[2025-04-19 18:52:29] ✅ Normal traffic: 231 pkt/s
+[2025-04-19 18:52:34] ✅ Normal traffic: 171 pkt/s
+[2025-04-19 18:52:39] ✅ Normal traffic: 206 pkt/s
+[2025-04-19 18:52:45] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:52:50] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:52:55] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:53:00] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:53:05] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 18:53:10] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:53:15] ✅ Normal traffic: 13 pkt/s
+[2025-04-19 18:53:20] ✅ Normal traffic: 31 pkt/s
+[2025-04-19 18:53:25] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:53:30] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:53:35] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:53:40] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:53:45] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:54:08] ✅ Normal traffic: 25 pkt/s
+[2025-04-19 18:54:14] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 18:54:15] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:54:17] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:54:24] ✅ Normal traffic: 0 pkt/s
+[2025-04-19 18:54:35] ✅ Normal traffic: 166 pkt/s
+[2025-04-19 18:54:40] ✅ Normal traffic: 160 pkt/s
+[2025-04-19 18:54:45] ⚠️ DDoS detected! Packet rate: 735 pkt/s from 192.168.1.13
+[2025-04-19 18:54:45] 🚫 IP 192.168.1.13 has been blocked due to high traffic.
+[2025-04-19 18:54:50] ⚠️ DDoS detected! Packet rate: 783 pkt/s from 192.168.1.64
+[2025-04-19 18:54:50] 🚫 IP 192.168.1.64 has been blocked due to high traffic.
+[2025-04-19 18:54:55] ⚠️ DDoS detected! Packet rate: 638 pkt/s from 192.168.1.63
+[2025-04-19 18:54:55] 🚫 IP 192.168.1.63 has been blocked due to high traffic.
+[2025-04-19 18:55:00] ⚠️ DDoS detected! Packet rate: 456 pkt/s from 192.168.1.40
+[2025-04-19 18:55:00] 🚫 IP 192.168.1.40 has been blocked due to high traffic.
+[2025-04-19 18:55:06] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:55:11] ✅ Normal traffic: 0 pkt/s
+[2025-04-19 18:55:16] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:55:21] ✅ Normal traffic: 13 pkt/s
+[2025-04-19 18:55:26] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:55:31] ✅ Normal traffic: 11 pkt/s
+[2025-04-19 18:55:34] ✅ Normal traffic: 9 pkt/s
+[2025-04-19 18:55:35] ✅ Normal traffic: 7 pkt/s
+[2025-04-19 18:55:58] ✅ Normal traffic: 9 pkt/s
+[2025-04-19 18:56:06] ✅ Normal traffic: 12 pkt/s
+[2025-04-19 18:56:11] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:56:16] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:56:21] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:56:26] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 18:56:31] ✅ Normal traffic: 0 pkt/s
+[2025-04-19 18:56:36] ✅ Normal traffic: 21 pkt/s
+[2025-04-19 18:56:41] ✅ Normal traffic: 8 pkt/s
+[2025-04-19 18:56:45] ⚠️ DDoS detected! Packet rate: 609 pkt/s from 192.168.1.94
+[2025-04-19 18:56:45] 🚫 IP 192.168.1.94 has been blocked due to high traffic.
+[2025-04-19 18:56:50] ✅ Normal traffic: 150 pkt/s
+[2025-04-19 18:57:18] ✅ Normal traffic: 242 pkt/s
+[2025-04-19 18:57:20] ✅ Normal traffic: 126 pkt/s
+[2025-04-19 18:57:28] ⚠️ DDoS detected! Packet rate: 742 pkt/s from 192.168.1.200
+[2025-04-19 18:57:28] 🚫 IP 192.168.1.200 has been blocked due to high traffic.
+[2025-04-19 18:57:33] ⚠️ DDoS detected! Packet rate: 765 pkt/s from 192.168.1.61
+[2025-04-19 18:57:33] 🚫 IP 192.168.1.61 has been blocked due to high traffic.
+[2025-04-19 18:57:34] ⚠️ DDoS detected! Packet rate: 592 pkt/s from 192.168.1.154
+[2025-04-19 18:57:34] 🚫 IP 192.168.1.154 has been blocked due to high traffic.
+[2025-04-19 18:57:35] ⚠️ DDoS detected! Packet rate: 653 pkt/s from 192.168.1.56
+[2025-04-19 18:57:35] 🚫 IP 192.168.1.56 has been blocked due to high traffic.
+[2025-04-19 18:57:36] ⚠️ DDoS detected! Packet rate: 531 pkt/s from 192.168.1.34
+[2025-04-19 18:57:36] 🚫 IP 192.168.1.34 has been blocked due to high traffic.
+[2025-04-19 18:57:37] ✅ Normal traffic: 102 pkt/s
+[2025-04-19 18:57:42] ✅ Normal traffic: 153 pkt/s
+[2025-04-19 18:57:48] ✅ Normal traffic: 10 pkt/s
+[2025-04-19 18:58:04] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:58:09] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 18:58:13] ✅ Normal traffic: 113 pkt/s
+[2025-04-19 18:58:18] ✅ Normal traffic: 141 pkt/s
+[2025-04-19 18:58:23] ✅ Normal traffic: 219 pkt/s
+[2025-04-19 18:58:29] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 18:58:34] ✅ Normal traffic: 22 pkt/s
+[2025-04-19 18:58:38] ✅ Normal traffic: 239 pkt/s
+[2025-04-19 18:58:43] ✅ Normal traffic: 147 pkt/s
+[2025-04-19 18:58:48] ⚠️ DDoS detected! Packet rate: 756 pkt/s from 192.168.1.143
+[2025-04-19 18:58:48] 🚫 IP 192.168.1.143 has been blocked due to high traffic.
+[2025-04-19 19:04:43] ⚠️ DDoS detected! Packet rate: 433 pkt/s from 192.168.1.97
+[2025-04-19 19:04:43] 🚫 IP 192.168.1.97 has been blocked due to high traffic.
+[2025-04-19 19:04:50] ✅ Normal traffic: 8 pkt/s
+[2025-04-19 19:04:58] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:05:03] ✅ Normal traffic: 17 pkt/s
+[2025-04-19 19:05:08] ✅ Normal traffic: 5 pkt/s
+[2025-04-19 19:05:13] ✅ Normal traffic: 10 pkt/s
+[2025-04-19 19:05:17] ⚠️ DDoS detected! Packet rate: 706 pkt/s from 192.168.1.173
+[2025-04-19 19:05:17] 🚫 IP 192.168.1.173 has been blocked due to high traffic.
+[2025-04-19 19:06:05] ⚠️ DDoS detected! Packet rate: 598 pkt/s from 192.168.1.196
+[2025-04-19 19:06:05] 🚫 IP 192.168.1.196 has been blocked due to high traffic.
+[2025-04-19 19:06:09] ✅ Normal traffic: 193 pkt/s
+[2025-04-19 19:06:15] ✅ Normal traffic: 103 pkt/s
+[2025-04-19 19:06:20] ✅ Normal traffic: 178 pkt/s
+[2025-04-19 19:06:25] ✅ Normal traffic: 135 pkt/s
+[2025-04-19 19:06:30] ✅ Normal traffic: 226 pkt/s
+[2025-04-19 19:08:03] ✅ Normal traffic: 149 pkt/s
+[2025-04-19 19:08:04] ⚠️ DDoS detected! Packet rate: 529 pkt/s from 192.168.1.82
+[2025-04-19 19:08:04] 🚫 IP 192.168.1.82 has been blocked due to high traffic.
+[2025-04-19 19:08:11] ⚠️ DDoS detected! Packet rate: 780 pkt/s from 192.168.1.173
+[2025-04-19 19:08:11] 🚫 IP 192.168.1.173 has been blocked due to high traffic.
+[2025-04-19 19:08:16] ⚠️ DDoS detected! Packet rate: 706 pkt/s from 192.168.1.97
+[2025-04-19 19:08:16] 🚫 IP 192.168.1.97 has been blocked due to high traffic.
+[2025-04-19 19:08:21] ✅ Normal traffic: 242 pkt/s
+[2025-04-19 19:08:26] ✅ Normal traffic: 174 pkt/s
+[2025-04-19 19:08:31] ✅ Normal traffic: 169 pkt/s
+[2025-04-19 19:08:37] ✅ Normal traffic: 226 pkt/s
+[2025-04-19 19:08:42] ✅ Normal traffic: 181 pkt/s
+[2025-04-19 19:08:47] ✅ Normal traffic: 109 pkt/s
+[2025-04-19 19:09:03] ✅ Normal traffic: 185 pkt/s
+[2025-04-19 19:09:08] ⚠️ DDoS detected! Packet rate: 415 pkt/s from 192.168.1.177
+[2025-04-19 19:09:08] 🚫 IP 192.168.1.177 has been blocked due to high traffic.
+[2025-04-19 19:09:13] ⚠️ DDoS detected! Packet rate: 645 pkt/s from 192.168.1.64
+[2025-04-19 19:09:13] 🚫 IP 192.168.1.64 has been blocked due to high traffic.
+[2025-04-19 19:09:18] ⚠️ DDoS detected! Packet rate: 489 pkt/s from 192.168.1.221
+[2025-04-19 19:09:18] 🚫 IP 192.168.1.221 has been blocked due to high traffic.
+[2025-04-19 19:09:23] ⚠️ DDoS detected! Packet rate: 612 pkt/s from 192.168.1.207
+[2025-04-19 19:09:23] 🚫 IP 192.168.1.207 has been blocked due to high traffic.
+[2025-04-19 19:09:28] ⚠️ DDoS detected! Packet rate: 657 pkt/s from 192.168.1.28
+[2025-04-19 19:09:28] 🚫 IP 192.168.1.28 has been blocked due to high traffic.
+[2025-04-19 19:09:28] ✅ Normal traffic: 179 pkt/s
+[2025-04-19 19:09:42] ✅ Normal traffic: 187 pkt/s
+[2025-04-19 19:09:48] ✅ Normal traffic: 238 pkt/s
+[2025-04-19 19:09:48] ✅ Normal traffic: 186 pkt/s
+[2025-04-19 19:09:53] ⚠️ DDoS detected! Packet rate: 791 pkt/s from 192.168.1.124
+[2025-04-19 19:09:53] 🚫 IP 192.168.1.124 has been blocked due to high traffic.
+[2025-04-19 19:09:59] ⚠️ DDoS detected! Packet rate: 510 pkt/s from 192.168.1.62
+[2025-04-19 19:09:59] 🚫 IP 192.168.1.62 has been blocked due to high traffic.
+[2025-04-19 19:10:03] ⚠️ DDoS detected! Packet rate: 591 pkt/s from 192.168.1.162
+[2025-04-19 19:10:03] 🚫 IP 192.168.1.162 has been blocked due to high traffic.
+[2025-04-19 19:10:09] ⚠️ DDoS detected! Packet rate: 613 pkt/s from 192.168.1.72
+[2025-04-19 19:10:09] 🚫 IP 192.168.1.72 has been blocked due to high traffic.
+[2025-04-19 19:10:14] ⚠️ DDoS detected! Packet rate: 720 pkt/s from 192.168.1.153
+[2025-04-19 19:10:14] 🚫 IP 192.168.1.153 has been blocked due to high traffic.
+[2025-04-19 19:10:18] ⚠️ DDoS detected! Packet rate: 426 pkt/s from 192.168.1.178
+[2025-04-19 19:10:18] 🚫 IP 192.168.1.178 has been blocked due to high traffic.
+[2025-04-19 19:10:23] ✅ Normal traffic: 113 pkt/s
+[2025-04-19 19:10:28] ✅ Normal traffic: 126 pkt/s
+[2025-04-19 19:10:30] ✅ Normal traffic: 124 pkt/s
+[2025-04-19 19:10:36] ✅ Normal traffic: 187 pkt/s
+[2025-04-19 19:10:42] ✅ Normal traffic: 127 pkt/s
+[2025-04-19 19:10:47] ⚠️ DDoS detected! Packet rate: 766 pkt/s from 192.168.1.203
+[2025-04-19 19:10:47] 🚫 IP 192.168.1.203 has been blocked due to high traffic.
+[2025-04-19 19:10:52] ⚠️ DDoS detected! Packet rate: 494 pkt/s from 192.168.1.185
+[2025-04-19 19:10:52] 🚫 IP 192.168.1.185 has been blocked due to high traffic.
+[2025-04-19 19:10:57] ⚠️ DDoS detected! Packet rate: 492 pkt/s from 192.168.1.73
+[2025-04-19 19:10:57] 🚫 IP 192.168.1.73 has been blocked due to high traffic.
+[2025-04-19 19:11:03] ⚠️ DDoS detected! Packet rate: 470 pkt/s from 192.168.1.139
+[2025-04-19 19:11:03] 🚫 IP 192.168.1.139 has been blocked due to high traffic.
+[2025-04-19 19:11:07] ⚠️ DDoS detected! Packet rate: 508 pkt/s from 192.168.1.250
+[2025-04-19 19:11:07] 🚫 IP 192.168.1.250 has been blocked due to high traffic.
+[2025-04-19 19:11:08] ⚠️ DDoS detected! Packet rate: 747 pkt/s from 192.168.1.162
+[2025-04-19 19:11:08] 🚫 IP 192.168.1.162 has been blocked due to high traffic.
+[2025-04-19 19:11:13] ✅ Normal traffic: 103 pkt/s
+[2025-04-19 19:11:18] ✅ Normal traffic: 174 pkt/s
+[2025-04-19 19:11:23] ✅ Normal traffic: 239 pkt/s
+[2025-04-19 19:11:27] ✅ Normal traffic: 222 pkt/s
+[2025-04-19 19:11:29] ✅ Normal traffic: 236 pkt/s
+[2025-04-19 19:11:33] ⚠️ DDoS detected! Packet rate: 774 pkt/s from 192.168.1.250
+[2025-04-19 19:11:33] 🚫 IP 192.168.1.250 has been blocked due to high traffic.
+[2025-04-19 19:11:38] ⚠️ DDoS detected! Packet rate: 670 pkt/s from 192.168.1.250
+[2025-04-19 19:11:38] 🚫 IP 192.168.1.250 has been blocked due to high traffic.
+[2025-04-19 19:11:43] ⚠️ DDoS detected! Packet rate: 718 pkt/s from 192.168.1.48
+[2025-04-19 19:11:43] 🚫 IP 192.168.1.48 has been blocked due to high traffic.
+[2025-04-19 19:11:48] ⚠️ DDoS detected! Packet rate: 758 pkt/s from 192.168.1.203
+[2025-04-19 19:11:48] 🚫 IP 192.168.1.203 has been blocked due to high traffic.
+[2025-04-19 19:11:54] ✅ Normal traffic: 179 pkt/s
+[2025-04-19 19:11:58] ✅ Normal traffic: 208 pkt/s
+[2025-04-19 19:11:59] ✅ Normal traffic: 170 pkt/s
+[2025-04-19 19:12:05] ✅ Normal traffic: 126 pkt/s
+[2025-04-19 19:12:10] ✅ Normal traffic: 164 pkt/s
+[2025-04-19 19:12:15] ⚠️ DDoS detected! Packet rate: 402 pkt/s from 192.168.1.82
+[2025-04-19 19:12:15] 🚫 IP 192.168.1.82 has been blocked due to high traffic.
+[2025-04-19 19:12:17] ⚠️ DDoS detected! Packet rate: 491 pkt/s from 192.168.1.180
+[2025-04-19 19:12:17] 🚫 IP 192.168.1.180 has been blocked due to high traffic.
+[2025-04-19 19:12:20] ⚠️ DDoS detected! Packet rate: 726 pkt/s from 192.168.1.52
+[2025-04-19 19:12:20] 🚫 IP 192.168.1.52 has been blocked due to high traffic.
+[2025-04-19 19:12:25] ⚠️ DDoS detected! Packet rate: 446 pkt/s from 192.168.1.187
+[2025-04-19 19:12:25] 🚫 IP 192.168.1.187 has been blocked due to high traffic.
+[2025-04-19 19:12:30] ⚠️ DDoS detected! Packet rate: 626 pkt/s from 192.168.1.248
+[2025-04-19 19:12:30] 🚫 IP 192.168.1.248 has been blocked due to high traffic.
+[2025-04-19 19:12:35] ✅ Normal traffic: 211 pkt/s
+[2025-04-19 19:12:40] ✅ Normal traffic: 186 pkt/s
+[2025-04-19 19:12:45] ✅ Normal traffic: 203 pkt/s
+[2025-04-19 19:12:50] ⚠️ DDoS detected! Packet rate: 782 pkt/s from 192.168.1.76
+[2025-04-19 19:12:50] 🚫 IP 192.168.1.76 has been blocked due to high traffic.
+[2025-04-19 19:12:54] ⚠️ DDoS detected! Packet rate: 783 pkt/s from 192.168.1.172
+[2025-04-19 19:12:54] 🚫 IP 192.168.1.172 has been blocked due to high traffic.
+[2025-04-19 19:43:04] ⚠️ DDoS detected! Packet rate: 625 pkt/s from 192.168.1.38
+[2025-04-19 19:43:04] 🚫 IP 192.168.1.38 has been blocked due to high traffic.
+[2025-04-19 19:43:09] ⚠️ DDoS detected! Packet rate: 522 pkt/s from 192.168.1.207
+[2025-04-19 19:43:09] 🚫 IP 192.168.1.207 has been blocked due to high traffic.
+[2025-04-19 19:43:14] ✅ Normal traffic: 175 pkt/s
+[2025-04-19 19:43:19] ✅ Normal traffic: 160 pkt/s
+[2025-04-19 19:43:19] ✅ Normal traffic: 194 pkt/s
+[2025-04-19 19:43:21] ⚠️ DDoS detected! Packet rate: 765 pkt/s from 192.168.1.144
+[2025-04-19 19:43:21] 🚫 IP 192.168.1.144 has been blocked due to high traffic.
+[2025-04-19 19:43:31] ⚠️ DDoS detected! Packet rate: 733 pkt/s from 192.168.1.94
+[2025-04-19 19:43:31] 🚫 IP 192.168.1.94 has been blocked due to high traffic.
+[2025-04-19 19:43:36] ⚠️ DDoS detected! Packet rate: 516 pkt/s from 192.168.1.120
+[2025-04-19 19:43:36] 🚫 IP 192.168.1.120 has been blocked due to high traffic.
+[2025-04-19 19:43:41] ⚠️ DDoS detected! Packet rate: 600 pkt/s from 192.168.1.150
+[2025-04-19 19:43:41] 🚫 IP 192.168.1.150 has been blocked due to high traffic.
+[2025-04-19 19:43:47] ✅ Normal traffic: 23 pkt/s
+[2025-04-19 19:43:52] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:43:57] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 19:44:01] ⚠️ DDoS detected! Packet rate: 726 pkt/s from 192.168.1.234
+[2025-04-19 19:44:01] 🚫 IP 192.168.1.234 has been blocked due to high traffic.
+[2025-04-19 19:44:07] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 19:44:12] ✅ Normal traffic: 7 pkt/s
+[2025-04-19 19:44:16] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:44:19] ✅ Normal traffic: 2 pkt/s
+[2025-04-19 19:52:23] ✅ Normal traffic: 29 pkt/s
+[2025-04-19 19:52:40] ✅ Normal traffic: 7 pkt/s
+[2025-04-19 19:52:43] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:52:46] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:52:55] ✅ Normal traffic: 13 pkt/s
+[2025-04-19 19:53:00] ✅ Normal traffic: 6 pkt/s
+[2025-04-19 19:53:05] ✅ Normal traffic: 3 pkt/s
+[2025-04-19 19:53:10] ✅ Normal traffic: 1 pkt/s
+[2025-04-19 19:53:14] ⚠️ DDoS detected! Packet rate: 575 pkt/s from 192.168.1.231
+[2025-04-19 19:53:14] 🚫 IP 192.168.1.231 has been blocked due to high traffic.
+[2025-04-19 19:53:19] ⚠️ DDoS detected! Packet rate: 695 pkt/s from 192.168.1.150
+[2025-04-19 19:53:19] 🚫 IP 192.168.1.150 has been blocked due to high traffic.
+[2025-04-19 19:53:24] ✅ Normal traffic: 193 pkt/s
